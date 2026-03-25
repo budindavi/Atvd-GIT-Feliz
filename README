@@ -1,0 +1,37 @@
+# Atividade Praticando Fluxo Feliz com GIT e GitHub
+
+## Descrição
+Este projeto foi desenvolvido como atividade prática para aplicação dos conceitos de Git e GitHub.
+
+## Etapas realizadas
+
+- Criação do repositório
+- Commit inicial na branch main
+- Criação da branch solicitacao-1
+- Alterações no projeto
+- Abertura de Pull Request
+- Merge na main
+- Criação da branch solicitacao-2
+- Novas alterações no projeto
+- Abertura de Pull Request
+- Merge na main
+
+## Estrutura do projeto
+
+- index.html
+- pasta imagens com os prints da atividade
+
+## Pull Request Extra
+- Há 2 pull extras 1 deles foi um erro que cometi e não estava sabendo apagar depois de corrigir,
+e o outro foi apenas para subir as imagens de evidencia.
+
+## Prints da atividade
+
+### Projeto na main
+![Main](imagens/img1.png)
+
+### Branches criadas
+![Branches](imagens/img2.png)
+
+### Pull Requests
+![Pull Requests](imagens/img3.png)
